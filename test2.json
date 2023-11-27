@@ -1,0 +1,12 @@
+{
+	"level": "pass",
+	"message": "connected to DB",
+   	 "resourceId": "server-1235",
+	"timestamp": "2023-09-16T09:00:00Z",
+	"traceId": "abc-xyz-124",
+   	"spanId": "span-457",
+    	"commit": "5e53430",
+    	"metadata": {
+        		"parentResourceId": "server-0988"
+    	}
+}

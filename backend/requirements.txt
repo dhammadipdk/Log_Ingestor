@@ -1,0 +1,4 @@
+Flask
+Flask-SQLAlchemy
+elasticsearch==7.15.1
+flask-cors
